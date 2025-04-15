@@ -1,0 +1,85 @@
+Logged in: test_user_1@hdrs.com (User ID: 1)
+Login Time: 3.19 sec
+Logged in: test_user_2@hdrs.com (User ID: 2)
+Login Time: 3.52 sec
+Logged in: test_user_5@hdrs.com (User ID: 5)
+Login Time: 3.85 sec
+Logged in: test_user_4@hdrs.com (User ID: 4)
+Login Time: 4.18 sec
+Uploaded: test1.png (Image ID: 15)
+Upload Time: 1.00 sec
+Logged in: test_user_3@hdrs.com (User ID: 3)
+Login Time: 4.54 sec
+Uploaded: test10.png (Image ID: 16)
+Upload Time: 1.69 sec
+Logged in: test_user_7@hdrs.com (User ID: 7)
+Login Time: 5.21 sec
+Uploaded: test13.png (Image ID: 17)
+Upload Time: 1.36 sec
+Logged in: test_user_6@hdrs.com (User ID: 6)
+Login Time: 6.19 sec
+Uploaded: test12.png (Image ID: 18)
+Upload Time: 3.21 sec
+Logged in: test_user_8@hdrs.com (User ID: 8)
+Login Time: 9.59 sec
+Uploaded: test11.png (Image ID: 19)
+Upload Time: 5.47 sec
+Uploaded: test2.png (Image ID: 20)
+Upload Time: 5.59 sec
+Logged in: test_user_10@hdrs.com (User ID: 10)
+Login Time: 10.86 sec
+Logged in: test_user_9@hdrs.com (User ID: 9)
+Login Time: 12.98 sec
+Uploaded: test15.png (Image ID: 21)
+Upload Time: 6.80 sec
+Prediction Result: {'predicted_digit': '3780270332_09790_3048320_53924949_647587_1931917923', 'prediction_id': 15}
+Prediction Time: 10.82 sec
+Logged in: test_user_12@hdrs.com (User ID: 12)
+Login Time: 15.10 sec
+Uploaded: test3.png (Image ID: 22)
+Upload Time: 5.77 sec
+Prediction Result: {'predicted_digit': '6810676981_774529_0453337250_140606', 'prediction_id': 16}
+Prediction Time: 12.88 sec
+Logged in: test_user_11@hdrs.com (User ID: 11)
+Login Time: 18.44 sec
+Prediction Result: {'predicted_digit': '786413_201840_2634510067', 'prediction_id': 17}
+Prediction Time: 13.35 sec
+Uploaded: test5.png (Image ID: 23)
+Upload Time: 7.69 sec
+Uploaded: test4.png (Image ID: 24)
+Upload Time: 7.39 sec
+Logged in: test_user_13@hdrs.com (User ID: 13)
+Login Time: 20.38 sec
+Prediction Result: {'predicted_digit': '93144', 'prediction_id': 19}
+Prediction Time: 9.70 sec
+Prediction Result: {'predicted_digit': '8558199002_1279151474_05091764', 'prediction_id': 18}
+Prediction Time: 13.17 sec
+Logged in: test_user_14@hdrs.com (User ID: 14)
+Login Time: 20.88 sec
+Uploaded: test7.png (Image ID: 25)
+Upload Time: 5.87 sec
+Prediction Result: {'predicted_digit': '7769007_2741641923_1648549714_8211799_8864212407', 'prediction_id': 21}
+Prediction Time: 11.32 sec
+Prediction Result: {'predicted_digit': '12345_09876', 'prediction_id': 20}
+Prediction Time: 8.77 sec
+Uploaded: test6.png (Image ID: 26)
+Upload Time: 3.49 sec
+Uploaded: test8.png (Image ID: 27)
+Upload Time: 3.27 sec
+Prediction Result: {'predicted_digit': '69415893', 'prediction_id': 22}
+Prediction Time: 8.64 sec
+Uploaded: test9.png (Image ID: 28)
+Upload Time: 4.14 sec
+Prediction Result: {'predicted_digit': '8472814_418689728', 'prediction_id': 23}
+Prediction Time: 9.31 sec
+Prediction Result: {'predicted_digit': '73106', 'prediction_id': 24}
+Prediction Time: 7.95 sec
+Prediction Result: {'predicted_digit': '153247_583169976_681851_799438183_7568665541', 'prediction_id': 25}
+Prediction Time: 10.11 sec
+Prediction Result: {'predicted_digit': '93782_3450738916_47996_97818648_3442232180_8477776_5874493_512218957', 'prediction_id': 26}
+Prediction Time: 9.94 sec
+Prediction Result: {'predicted_digit': '188231936', 'prediction_id': 27}
+Prediction Time: 8.22 sec
+Prediction Result: {'predicted_digit': '076213154_5216932_361141_744723_475841680_62098', 'prediction_id': 28}
+Prediction Time: 6.85 sec
+Total execution time: 31.99 seconds
